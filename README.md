@@ -30,16 +30,15 @@
 |----------|-------|
 | Languages | Python, JavaScript, HTML/CSS |
 | 3D/Graphics | Blender (Python API) |
-| Web | [Django/Flask/React — هر کدوم بلدی] |
-| Tools | Git, Linux, [هر چیز دیگه] |
+| Web | [Django/React] |
+| Tools | Git, Linux, windows |
 | Learning | Machine Learning, Deep Learning |
 
 ---
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [ایمیلت]
-- 💼 LinkedIn: [لینک]
+- 📧 Email: [hoseinhamidi13@yahoo.com]
 
 ---
 
