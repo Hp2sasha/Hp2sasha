@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there, I'm Hossein Hamidi 👋
 
-<!--
-**Hp2sasha/Hp2sasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer** with a B.Sc. in Software Engineering (GPA: 19.29/20 ≈ 3.9/4.0)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+
+- 🧪 **Virtual Chemistry Lab** — An interactive 3D simulation 
+  tool for visualizing molecular combinations using Python 
+  and Blender
+- 🧠 **Decision Sphere** — A conceptual geometric framework 
+  for multi-dimensional decision-making under logical-emotional 
+  conflict
+
+---
+
+### 🎯 Research Interests
+
+- AI in Education & Intelligent Tutoring Systems
+- Decision Theory & Value Alignment in AI
+- 3D Visualization & Neural Rendering
+- Spherical Fuzzy Logic & Multi-Criteria Decision Making
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| Languages | Python, JavaScript, HTML/CSS |
+| 3D/Graphics | Blender (Python API) |
+| Web | [Django/Flask/React — هر کدوم بلدی] |
+| Tools | Git, Linux, [هر چیز دیگه] |
+| Learning | Machine Learning, Deep Learning |
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [ایمیلت]
+- 💼 LinkedIn: [لینک]
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
