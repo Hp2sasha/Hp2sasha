@@ -40,6 +40,3 @@
 
 - 📧 Email: [hoseinhamidi13@yahoo.com]
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github.com/Hp2sasha&show_icons=true&theme=radical)
-
